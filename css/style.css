@@ -9,7 +9,7 @@ div{
 }
 .morado {
 	background:#cc66ff;
-	position: absolute;
+	position: relative;
 	left:200px;
 }
 .azul {
