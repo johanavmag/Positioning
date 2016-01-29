@@ -4,16 +4,27 @@ div{
 }
 .rosa{
 	background:#ff4da6;
-	position: static;
+	position: absolute;
+	left:0px;
+	top:0px;
 }
 .morado {
 	background:#cc66ff;
-	position: relative;
-	left:200px;
+	position: absolute;
+	right: 0px;
+	top: 0px
 }
 .azul {
 	background:#1ad1ff;
-	position: static;
+	position: absolute;
+	right: 0px;
+	bottom: 0px
+}
+.verde {
+	background: #99ff99;
+	position: absolute;
+	left:0px;
+	bottom: 0px;
 }
 body {
 	margin: 0px;
