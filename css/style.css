@@ -4,16 +4,18 @@ div{
 }
 .rosa{
 	background:#ff4da6;
-	
+	position: static;
 }
 .morado {
 	background:#cc66ff;
+	position: relative;
+	left:200px;
 }
 .azul {
 	background:#1ad1ff;
-	
+	position: static;
 }
 body {
 	margin: 0px;
-	
+	padding: 0px;
 }
